@@ -33,9 +33,7 @@ Eu sou Marcos, dev front-end, criativo e 🎓formado em Produção Audiovisual. 
 
 ### 🎨 &nbsp;Front-End
 
-![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black);
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white);
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white);
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma);
 ![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
