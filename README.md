@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello World, I'm Marcos Nogueira 👋
+  Hello World, sou Marcos Nogueira 👋
 </h1>
 
 <div align="center">
@@ -25,11 +25,11 @@
 
 ---
 
-### 🎯 JavaScript | Angular | Photoshop | HTML | CSS
+### 🎯 JavaScript | Angular | CSS3 | HTML5 | Figma | Github | React | Photoshop
 
 Olá! 👋
 
-Eu sou Marcos, dev front-end, criativo e 🎓formado em Produção Audiovisual. Apaixonado por meus filhos, pets, esportes, música e games.
+Eu sou Marcos, dev Front-end, criativo e 🎓formado em Produção Audiovisual. Apaixonado por meus filhos, pets, esportes, música e games.
 
 ### 🎨 &nbsp;Front-End
 
