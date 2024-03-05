@@ -25,7 +25,7 @@
 
 ---
 
-### 🎯 JavaScript | CSS3 | HTML5 | Figma | Github | React | Photoshop
+### 🎯 JavaScript | CSS3 | HTML5 | Figma | Github | React
 
 Olá! 👋
 
