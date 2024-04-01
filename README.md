@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-  Front-end Engineer Student | Developer
+  Front-end Engineer Student | UX Design
 </h3>
 
 <div align="center">
@@ -25,18 +25,17 @@
 
 ---
 
-### 🎯 JavaScript | CSS3 | HTML5 | Github | React
+### 🎯 JavaScript | CSS3 | HTML5 | Github | UX Design
 
 Olá! 👋
 
-Eu sou Marcos, estudante de Engenharia Front-end pela EBAC, criativo e formado em Produção Audiovisual. Apaixonado por meus filhos, tecnologia, pets, esportes e games.
+Eu sou Marcos, estudante de Engenharia Front-end pela EBAC, criativo e formado em Produção Audiovisual. Apaixonado por meus filhos, tecnologia, pets, esportes e games. Estudando mais sobre UX/UI.
 
 ### 🎨 &nbsp;Front-End
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)
 ![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)
-![React](https://img.shields.io/badge/-React-E7ECEB?style=for-the-badge&logo=react&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzMarkin)
 
