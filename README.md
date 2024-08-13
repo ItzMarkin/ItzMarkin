@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-  Front-end Engineer Student | UX Design
+  UX Design | SAP Trainee | Front-end Engineer
 </h3>
 
 <div align="center">
@@ -25,11 +25,11 @@
 
 ---
 
-### 🎯 JavaScript | CSS3 | HTML5 | Github | UX Design
+### 🎯 JavaScript | CSS3 | HTML5 | Github | UX Design | SAP
 
 Olá! 👋
 
-Eu sou Marcos, estudante de Engenharia Front-end pela EBAC, criativo e formado em Produção Audiovisual. Apaixonado por meus filhos, tecnologia, pets, esportes e games. Estudando mais sobre UX/UI.
+Eu sou Marcos, estudante de Engenharia Front-end pela EBAC e cursando Pós-graduação pela PUCRS na área de UX Design, me desafiando mais sobre SAP, criativo e formado em Produção Audiovisual. Apaixonado por meus filhos, tecnologia, pets, esportes e games.
 
 ### 🎨 &nbsp;Front-End
 
