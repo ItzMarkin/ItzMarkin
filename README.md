@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello World, sou Marcos Nogueira 👋
+  Olá mundo, sou Marcos Nogueira 👋
 </h1>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-  UX Design | SAP Trainee | Front-end Engineer
+  UX/UI Designer • Desenvolvedor Front-end
 </h3>
 
 <div align="center">
@@ -25,11 +25,11 @@
 
 ---
 
-### 🎯 JavaScript | CSS3 | HTML5 | Github | UX Design | SAP
+### 🎯 JavaScript | CSS3 | HTML5 | Github | UX Design
 
 Olá! 👋
 
-Eu sou Marcos, estudante de Engenharia Front-end pela EBAC e cursando Pós-graduação pela PUCRS na área de UX Design, me desafiando mais sobre SAP, criativo e formado em Produção Audiovisual. Apaixonado por meus filhos, tecnologia, pets, esportes e games.
+Sou Marcos Nogueira, uma pessoa família, pai de dois jovens, que gosta de trocar experiências, aprender coisas novas e criar impactos positivos, aproveitando um raciocínio rápido e uma boa memória. Sou um observador e comunicador, eu adoro esportes, pets, música, games e tecnologia. Busco um equilíbrio e uma maturidade, na vida e nos relacionamentos.
 
 ### 🎨 &nbsp;Front-End
 
