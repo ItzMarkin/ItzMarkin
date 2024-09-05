@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-  UX/UI Designer • Desenvolvedor Front-end
+  UX Designer | Desenvolvedor Frontend
 </h3>
 
 <div align="center">
@@ -25,13 +25,13 @@
 
 ---
 
-### 🎯 JavaScript | CSS3 | HTML5 | Github | UX Design
+### 🎯 Figma | Adobe XD | Javascript | HTML | CSS
 
 Olá! 👋
 
 Sou Marcos Nogueira, uma pessoa família, pai de dois jovens, que gosta de trocar experiências, aprender coisas novas e criar impactos positivos, aproveitando um raciocínio rápido e uma boa memória. Sou um observador e comunicador, eu adoro esportes, pets, música, games e tecnologia. Busco um equilíbrio e uma maturidade, na vida e nos relacionamentos.
 
-### 🎨 &nbsp;Front-End
+### 🎨 &nbsp;Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
