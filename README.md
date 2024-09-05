@@ -31,6 +31,19 @@ Olá! 👋
 
 Sou Marcos Nogueira, uma pessoa família, pai de dois jovens, que gosta de trocar experiências, aprender coisas novas e criar impactos positivos, aproveitando um raciocínio rápido e uma boa memória. Sou um observador e comunicador, eu adoro esportes, pets, música, games e tecnologia. Busco um equilíbrio e uma maturidade, na vida e nos relacionamentos.
 
+Dentre minhas principais competências, ressalto: 
+
+- Conduzir pesquisas de usuários para entender as necessidades e desejos dos clientes;
+- Participar de reuniões de ideação e contribuir com ideias criativas para novos produtos;
+- Conhecimento básico de prototipagem e design de interfaces;
+- Conhecimento básico de princípios de Human Centered Design;
+- Familiaridade com Figma, FigJam, Miro, Trello, Slack, Adobe XD e ferramentas de prototipagem;
+- Habilidades de comunicação e trabalho em equipe;
+- Atenção aos detalhes e habilidade para resolver problemas de forma criativa;
+- Capacidade de trabalhar de forma independente e como parte de uma equipe;
+- Paixão por criar produtos inovadores e centrados no usuário;
+- Conhecimento em princípios de acessibilidade.
+
 ### 🎨 &nbsp;Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
