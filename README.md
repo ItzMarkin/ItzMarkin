@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-  UX Designer | Desenvolvedor Frontend
+  UX/UI Designer | Desenvolvedor Frontend
 </h3>
 
 <div align="center">
