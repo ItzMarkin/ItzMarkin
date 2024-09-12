@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá mundo, sou Marcos Nogueira 👋
+  Olá, sou o Marcos 👋
 </h1>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-  UX/UI Designer | Desenvolvedor Frontend
+  UX/UI Designer
 </h3>
 
 <div align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-### 🎯 Figma | Adobe XD | Javascript | HTML | CSS
+### 🎯 UX/UI Designer | Illustrator | Photoshop | Figma | Adobe XD | Sketch
 
 Olá! 👋
 
@@ -37,14 +37,14 @@ Dentre minhas principais competências, ressalto:
 - Participar de reuniões de ideação e contribuir com ideias criativas para novos produtos;
 - Conhecimento básico de prototipagem e design de interfaces;
 - Conhecimento básico de princípios de Human Centered Design;
-- Familiaridade com Figma, FigJam, Miro, Trello, Slack, Adobe XD e ferramentas de prototipagem;
+- Familiaridade com Illustrator, Photoshop, Figma, Adobe XD, Sketch e ferramentas de prototipagem;
 - Habilidades de comunicação e trabalho em equipe;
 - Atenção aos detalhes e habilidade para resolver problemas de forma criativa;
 - Capacidade de trabalhar de forma independente e como parte de uma equipe;
 - Paixão por criar produtos inovadores e centrados no usuário;
 - Conhecimento em princípios de acessibilidade.
 
-### 🎨 &nbsp;Frontend
+### 🎨 &nbsp; Plus+ Conhecimento Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
